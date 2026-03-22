@@ -1,0 +1,6 @@
+month,district,type,description,severity,flagged_by
+2024-09,Bageshwar,fund_spike,Fund disbursement > 3× expected for district,HIGH,AI_Anomaly_Detector
+2024-09,Nainital,enrollment_drop,Enrollment dropped >40% vs previous month,MEDIUM,AI_Anomaly_Detector
+2024-09,Rudraprayag,enrollment_drop,Enrollment dropped >40% vs previous month,MEDIUM,AI_Anomaly_Detector
+2024-09,Uttarkashi,enrollment_drop,Enrollment dropped >40% vs previous month,MEDIUM,AI_Anomaly_Detector
+2024-09,Dehradun,enrollment_drop,Enrollment dropped >40% vs previous month,MEDIUM,AI_Anomaly_Detector

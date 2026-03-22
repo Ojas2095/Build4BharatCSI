@@ -1,0 +1,8 @@
+Type: FeatureCollection
+Total features: 772
+
+Feature 0 properties: {"district": "Aizawl", "dt_code": 261, "st_nm": "Mizoram", "st_code": 15, "short_name": "AIZ"}
+Feature 1 properties: {"district": "Champhai", "dt_code": 262, "st_nm": "Mizoram", "st_code": 15, "short_name": "CPH"}
+Feature 2 properties: {"district": "Kolasib", "dt_code": 263, "st_nm": "Mizoram", "st_code": 15, "short_name": "KLS"}
+Feature 3 properties: {"district": "Lawngtlai", "dt_code": 264, "st_nm": "Mizoram", "st_code": 15, "short_name": "LWN"}
+Feature 4 properties: {"district": "Lunglei", "dt_code": 265, "st_nm": "Mizoram", "st_code": 15, "short_name": "LNG"}
